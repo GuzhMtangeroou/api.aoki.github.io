@@ -2,8 +2,10 @@
     "code":0,
     "data":{
         "LatestVersion":"1.0",
-        "LatestVersionWeek":"2501",
-        "UpdLink-win32":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%231/Aoki-2501-win32-x64.zip"
+        "LatestVersionWeek":"2502",
+        "UpdLink-win32":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-win32.zip",
+        "UpdLink-darwin":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-darwin.zip",
+        "UpdLink-linux":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-linux.zip"
     }
     
 }
