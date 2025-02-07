@@ -4,8 +4,8 @@
         "LatestVersion":"1.0",
         "LatestVersionWeek":"2502",
         "UpdLink-win32":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-win32.zip",
-        "UpdLink-darwin":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-darwin.zip",
-        "UpdLink-linux":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-linux.zip"
+        "UpdLink-Darwin":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-darwin.zip",
+        "UpdLink-Linux":"https://github.com/GuzhMtangeroou/Aoki/releases/download/25%232/Aoki-2502-linux.zip"
     }
     
 }
